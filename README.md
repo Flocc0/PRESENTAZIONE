@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## CIAO, MI CHIAMO MATTIA E QUESTO SONO IO QUALCHE ANNO FA
 
-You can use the [editor on GitHub](https://github.com/Flocc0/caso/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### MI PRESENTE
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ciao, mi chiamo Mattia e ho 16 anni. Vivo a Crespiatica, un piccolo paese vicino a Crema. Vado a scuola all'ITIS a Crema e frequento il terzo anno.
 
-```markdown
-Syntax highlighted code block
+Nella mia famiglia siamo in totale quattro persone: io, mio padre Mirko, mia madre Grazia e mia sorella Tania.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Flocc0/caso/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Nel tempo libero mi piace giocare ai video giochi e uscire con gli amici. Nella mia vita ho praticato molti sport: per cinque anni ho fatto nuote di cui tre a livello agonistico, per due anni ho giocato a calcio e per quattro anni ho giocato a baseball. Adesso invece sono da due anni circa che faccio palestra. 
