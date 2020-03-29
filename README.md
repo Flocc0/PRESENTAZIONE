@@ -2,7 +2,7 @@
 
 
 
-### MI PRESENTE
+### MI PRESENTO
 
 Ciao, mi chiamo Mattia e ho 16 anni. Vivo a Crespiatica, un piccolo paese vicino a Crema. Vado a scuola all'ITIS a Crema e frequento il terzo anno.
 
